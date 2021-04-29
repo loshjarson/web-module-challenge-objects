@@ -84,7 +84,7 @@ const reviews = [
 Using the reviews array above:
   1. log only Julius' feedback to the console - no function needed 
 */
-
+console.log(reviews[5].feedback)
 
 
 
@@ -94,7 +94,7 @@ Using the reviews array above do the following: (no function needed)
   2. log the whole array to the console, make sure the new review is inside of it   
 */
 
-
+reviews.push({ name: "Karen", rating: 1, feedback: "I wish I could give zero stars. This place was awful, they demanded I leave the building while I was executing my right to breath without a mask. This place has succomb to the goverment powers and will never be recieving my service ever again! DO NOT EAT HERE" })
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 5: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
 Reyna's feedback is missing! Use what you know to do the following: (no function needed) 
